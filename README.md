@@ -22,4 +22,4 @@ Mindset: C/C++ Embeded developer with VHDL, testing in Google test, liking to wo
   
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerfinHub&show_icons=true&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerfinHub&show_icons=true&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
