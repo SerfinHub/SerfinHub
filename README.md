@@ -6,7 +6,7 @@
 - 👯  I’m looking to collaborate on amazing, inspiring projects which can blow people's minds!
 - ⚡ Fun fact: VS Code is the best - try change my mind!
 
-Mindset: C/C++ Embeded developer with VHDL, scrypting and WEB APP.
+Mindset: C/C++ Embeded developer with VHDL, testing in Google test, liking to work in Linux&Bash and contact with HMI by WEB APP.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
