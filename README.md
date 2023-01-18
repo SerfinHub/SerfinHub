@@ -3,6 +3,7 @@
 #### A few things about me:
 
 - 🔭 I’m currently working on full-stack website, 6-axis robot arm and bidarectional power converter...
+- :)  I love fighting with mixed skill domains!
 - 👯  I’m looking to collaborate on amazing, inspiring projects which can blow people's minds!
 - ⚡ Fun fact: VS Code is the best - try change my mind!
 
